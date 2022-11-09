@@ -1,0 +1,106 @@
+<%- include('partials/header.ejs'); %>
+
+  <body>
+    <div class="superInfo d-flex justify-content-around align-items-center container-fluid bg-secondary">
+      <h1 class="text-light"><i class="fa-solid fa-book text-light fs-5"></i> Manutenção de Ramais - Grupo JK</h1>
+      <i class="fa-solid fa-arrow-right-from-bracket text-light fs-5"></i>
+    </div>
+
+    <form action="/usuario/:id" method="PATCH" class="row g-3 col-6 m-auto shadow-lg p-3 mb-5 bg-body rounded" id="form-users">
+      <h4 class="text-center text-uppercase fs-5">Editar Ramal</h4>
+
+      <span class="pt-4 pb-1 text-center">Localize o(a) colaborador(a) ou o ramal cujo pretende editar:</span>
+      <div class="col-4">
+        <select id="inputState" class="form-select">
+          <option selected>Nome</option>
+          <option>Ramal</option>
+        </select>
+      </div>
+      <div class="col-8">
+        <input type="text" class="form-control">
+      </div>
+
+      <div class="col-12 d-flex justify-content-center gap-3 pt-3 pb-2">
+        <button type="submit" class="btn btn-success">Procurar</button>
+        <button type="submit" class="btn btn-danger">Cancelar</button>
+      </div>
+
+
+
+      <table class="table table-striped small text-center" id="ramalLocalizado">
+        <thead>
+          <tr>
+            <th scope="col">Editar</th>
+            <th scope="col">Ramal</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Cargo</th>
+            <th scope="col">Departamento</th>
+            <th scope="col">Empresa</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><a href="#" class="text-decoration-none"><i class="fa-regular fa-pen-to-square"></i></a></th>
+            <td>8037</td>
+            <td>João Gabriel</td>
+            <td>Analista de TI</td>
+            <td>TI</td>
+            <td>Comeri Matriz</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+
+      <div id="editarRamal">
+        <div class="col-5">
+          <label for="inputRamal" class="form-label">Ramal</label>
+          <input type="text" class="form-control" id="inputRamal">
+        </div>
+        <div class="col-7">
+          <label for="inputNome" class="form-label">Nome</label>
+          <input type="text" class="form-control" id="inputNome">
+        </div>
+        <div class="col-5">
+          <label for="inputCargo" class="form-label">Cargo</label>
+          <input type="text" class="form-control" id="inputCargo">
+        </div>
+        <div class="col-7">
+          <label for="inputDepto" class="form-label">Departamento</label>
+          <input type="text" class="form-control" id="inputDepto">
+        </div>
+
+        <div class="col-12">
+          <label for="inputLoja" class="form-label">Empresa</label>
+          <select id="inputLoja" class="form-select">
+            <option selected>Comeri Matriz</option>
+            <option>Comeri Praia Grande</option>
+            <option>Comeri Peruíbe</option>
+            <option>JK Seguros</option>
+            <option>Iremoc Showroom Santos</option>
+            <option>Iremoc Pós Vendas Santos</option>
+            <option>Iremoc Guarujá</option>
+            <option>Iremoc Praia Grande</option>
+          </select>
+        </div>
+
+        <div class="col-12 d-flex justify-content-center gap-3">
+          <button type="submit" class="btn btn-warning">Salvar Alterações</button>
+          <button type="submit" class="btn btn-danger">Cancelar</button>
+        </div>
+      </div>
+      <!--div editar ramal-->
+
+    </form>
+
+
+
+
+
+
+
+
+
+
+  </body>
+  <%- include('partials/footer.ejs'); %>

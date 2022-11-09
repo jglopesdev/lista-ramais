@@ -1,0 +1,47 @@
+<%- include('../partials/header.ejs'); %>
+  <%- include('../partials/navbarPanel.ejs'); %>
+
+    <body class="gradient">
+      <div class="container col-7 m-auto mt-5">
+        <div class="d-flex justify-content-between align-items-center">
+          <h4 class="op-cad text-uppercase fs-5">Operadores cadastrados</h4>
+          <a href="/access-panel/new"><button type="submit" class="btn btn-success btn-sm">NOVO OPERADOR</button></a>
+        </div>
+        <table class="table table-sm table-hover table-dark table-fs mt-3">
+          <thead class="text-center">
+            <tr>
+              <th scope="col">Editar</th>
+              <th scope="col">Nome completo</th>
+              <th scope="col">E-mail corporativo</th>
+              <th scope="col">Cargo</th>
+              <th scope="col">Loja</th>
+              <th scope="col">Status</th>
+            </tr>
+          </thead>
+          <% operators.forEach(operator=> { %>
+            <tbody class="text-center">
+              <tr>
+                <td><a href="/access-panel/edit/<%= operator._id %>"><i class=" fa-regular fa-pen-to-square fs-5 text-warning"></i></a></td>
+                <td>
+                  <%= operator.name %>
+                </td>
+                <td>
+                  <%= operator.email %>
+                </td>
+                <td>
+                  <%= operator.occupation %>
+                </td>
+                <td>
+                  <%= operator.company %>
+                </td>
+                <td>
+                  <%= operator.statusUser %>
+                </td>
+              </tr>
+            </tbody>
+            <% }) %>
+        </table>
+      </div>
+
+
+      <%- include('../partials/footer.ejs'); %>

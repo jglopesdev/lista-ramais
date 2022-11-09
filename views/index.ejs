@@ -1,0 +1,243 @@
+<%- include('partials/header.ejs'); %>
+
+  <body class="gradient">
+    <div class="superInfo d-flex justify-content-center align-items-center container-fluid text-light position-relative">
+      <h1 class="w-100">Lista de Ramais - GrupoJK</h1>
+      <span class="spanNav position-absolute top-0 end-0">Painel Administrativo &nbsp;<i class="fa-solid fa-right-to-bracket fs-5" data-toggle="modal" data-target="#modal"></i></span>
+    </div>
+    <div class="container lista-container">
+      <div class="row">
+        <div class="col-xl">
+          <div class="d-flex justify-content-center pb-2 imgEmp">
+            <img src="img/comerivw.png" width=150>
+          </div>
+          <div class="accordion col-comeri" id="accordionGrupoJk">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="comeri-matriz">
+                <button class="accordion-button" style="background-color: #001d4d" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-comeri-mat" aria-expanded="true" aria-controls="collapse-comeri-mat">
+                  <img id="logovw" src="img/volkswagen-logo-2.svg" />
+                  <h4 class="text-white">Santos - Matriz</h4>
+                </button>
+              </h2>
+              <div id="collapse-comeri-mat" class="accordion-collapse collapse" aria-labelledby="comeri-matriz" data-bs-parent="#accordionGrupoJk">
+                <div class="accordion-body overflow">
+                  <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation" id="li_vendas">
+                      <button class="nav-link active" id="vendas-tab" data-bs-toggle="tab" data-bs-target="#vendas" type="button" role="tab" aria-controls="vendas" aria-selected="true">
+                        Veículos
+                      </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link" id="pecas-tab" data-bs-toggle="tab" data-bs-target="#pecas" type="button" role="tab" aria-controls="pecas" aria-selected="false">
+                        Peças
+                      </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link" id="oficina-tab" data-bs-toggle="tab" data-bs-target="#oficina" type="button" role="tab" aria-controls="oficina" aria-selected="false">
+                        Oficina
+                      </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link" id="adm-tab" data-bs-toggle="tab" data-bs-target="#adm" type="button" role="tab" aria-controls="adm" aria-selected="false">
+                        Adm.
+                      </button>
+                    </li>
+                  </ul>
+                  <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="vendas" role="tabpanel" aria-labelledby="vendas-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="pecas" role="tabpanel" aria-labelledby="pecas-tab">
+
+
+                    </div>
+                    <div class="tab-pane fade" id="oficina" role="tabpanel" aria-labelledby="oficina-tab">
+
+
+                    </div>
+                    <div class="tab-pane fade" id="adm" role="tabpanel" aria-labelledby="adm-tab">
+
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="comeri-pg">
+              <button class="accordion-button collapsed" style="background-color: #001d4d" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-comeri-pg" aria-expanded="false" aria-controls="collapse-comeri-pg">
+                <img id="logovw" src="img/volkswagen-logo-2.svg" />
+                <h4 class="text-white">Praia Grande</h4>
+              </button>
+            </h2>
+            <div id="collapse-comeri-pg" class="accordion-collapse collapse" aria-labelledby="comeri-pg" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+              </div>
+              <!--accordion-body pg-->
+            </div>
+            <!--col-xl-->
+          </div>
+          <!--row-->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="comeri-pb">
+              <button class="accordion-button collapsed" style="background-color: #001d4d" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-comeri-pb" aria-expanded="false" aria-controls="collapse-comeri-pb">
+                <img id="logovw" src="img/volkswagen-logo-2.svg" />
+                <h4 class="text-white">Peruíbe</h4>
+              </button>
+            </h2>
+            <div id="collapse-comeri-pb" class="accordion-collapse collapse" aria-labelledby="comeri-pb" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl">
+          <div class="d-flex justify-content-center pb-2 imgEmp">
+            <img src="img/jkseg.png" width=150>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="jkseg">
+              <button class="accordion-button collapsed" style="background-color: #28b4b8" type="button" data-bs-toggle="collapse" data-bs-target="#collapseJk" aria-expanded="false" aria-controls="collapseJk">
+                <img id="logojkseg" src="img/logojk.png" />
+                <h4 class="text-white">Baixada Santista</h4>
+              </button>
+            </h2>
+            <div id="collapseJk" class="accordion-collapse collapse" aria-labelledby="jkseg" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="jksegInt">
+              <button class="accordion-button collapsed" style="background-color: #28b4b8" type="button" data-bs-toggle="collapse" data-bs-target="#collapsejksegInt" aria-expanded="false" aria-controls="collapsejksegInt">
+                <img id="logojkseg" src="img/logojk.png" />
+                <h4 class="text-white">Interior</h4>
+              </button>
+            </h2>
+            <div id="collapsejksegInt" class="accordion-collapse collapse" aria-labelledby="jksegInt" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body">
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xl">
+          <div class="d-flex justify-content-center pb-2 imgEmp">
+            <img src="img/iremoc.png" width=150>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="ireC3">
+              <button class="accordion-button collapsed" style="background-color: #c4062a" type="button" data-bs-toggle="collapse" data-bs-target="#collapseireC3" aria-expanded="false" aria-controls="collapseireC3">
+                <img id="logonissan" src="img/nissan-logo.svg" />
+                <h4 class="text-white">Santos - Showroom</h4>
+              </button>
+            </h2>
+            <div id="collapseireC3" class="accordion-collapse collapse" aria-labelledby="ireC3" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="senador">
+              <button class="accordion-button collapsed" style="background-color: #c4062a" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSenador" aria-expanded="false" aria-controls="collapseSenador">
+                <img id="logonissan" src="img/nissan-logo.svg" />
+                <h4 class="text-white">Santos - Pós Vendas</h4>
+              </button>
+            </h2>
+            <div id="collapseSenador" class="accordion-collapse collapse" aria-labelledby="senador" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="ireGja">
+              <button class="accordion-button collapsed" style="background-color: #c4062a" type="button" data-bs-toggle="collapse" data-bs-target="#collapseireGja" aria-expanded="false" aria-controls="collapseireGja">
+                <img id="logonissan" src="img/nissan-logo.svg" />
+                <h4 class="text-white">Guarujá</h4>
+              </button>
+            </h2>
+            <div id="collapseireGja" class="accordion-collapse collapse" aria-labelledby="ireGja" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="irePg">
+              <button class="accordion-button collapsed" style="background-color: #c4062a" type="button" data-bs-toggle="collapse" data-bs-target="#collapseirePg" aria-expanded="false" aria-controls="collapseirePg">
+                <img id="logonissan" src="img/nissan-logo.svg" />
+                <h4 class="text-white">Praia Grande</h4>
+              </button>
+            </h2>
+            <div id="collapseirePg" class="accordion-collapse collapse" aria-labelledby="irePg" data-bs-parent="#accordionGrupoJk">
+              <div class="accordion-body overflow">
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex justify-content-center" id="img-grupojk">
+            <img src="\img\grupojk.png">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--modal login-->
+    <div class="modal" id="modal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title m-auto">Painel de Atualização de Ramais</h5>
+            <a href=""><i class="fa-solid fa-xmark text-secondary close" data-dismiss="modal"></i></a>
+          </div>
+          <div class="modal-body">
+            <div class="d-flex justify-content-center m-4">
+              <img src="/img/gjk_login.png" alt="Grupo JK">
+            </div>
+            <form method="POST" action="/authenticate" class=" m-auto col-10">
+              <div class="form-floating">
+                <input type="email" name="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label for="floatingInput">E-mail Corporativo</label>
+              </div>
+              <div class="form-floating mt-2">
+                <input type="password" name="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword">Senha</label>
+              </div>
+
+              <div class="checkbox d-flex justify-content-center align-items-center flex-column gap-2 m-4">
+                <a href="/forgot-password" class="text-black-50">Esqueci minha senha</a>
+              </div>
+              <button class="w-100 btn btn-lg btn-dark" type="submit">Acessar</button>
+              <p class="mt-4 text-muted text-center font-monospace small">JGlopes.dev &copy; 2022. Direitos Reservados.</p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <%- include('partials/footer.ejs'); %>

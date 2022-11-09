@@ -1,0 +1,46 @@
+<%- include('../partials/header.ejs'); %>
+  <!-- position-absolute top-50 start-50 translate-middle bg-body rounded -->
+
+  <body class="gradient">
+    <%- include('../partials/navbarPanel.ejs'); %>
+
+      <form action="/access-panel/new" method="POST" class="bg-light row g-3 col-5 m-auto  shadow-lg p-5 mt-5 rounded" id="novoOp">
+        <h4 class="text-center text-uppercase fs-4">Cadastrar novo Operador</h4>
+        <div class="col-12">
+          <input type="text" class="form-control" name="name" placeholder="Nome completo">
+        </div>
+        <div class="col-8">
+          <input type="email" class="form-control" name="email" placeholder="e-mail corporativo">
+        </div>
+        <div class="col-4">
+          <input type="password" class="form-control" name="password" placeholder="Senha">
+        </div>
+        <div class="col-6">
+          <input type="text" class="form-control" name="occupation" placeholder="Cargo">
+        </div>
+
+        <div class="col-6">
+          <select class="form-select" name="company">
+            <option selected>Selecione a loja...</option>
+            <option>Comeri Matriz</option>
+            <option>Comeri Praia Grande</option>
+            <option>Comeri Peruibe</option>
+            <option>JK Seguros</option>
+            <option>Iremoc Showroom Santos</option>
+            <option>Iremoc Pos Vendas Santos</option>
+            <option>Iremoc Guaruja</option>
+            <option>Iremoc Praia Grande</option>
+          </select>
+        </div>
+        <div>
+          <input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="statusUser" checked>
+          <label class="form-check-label" for="inlineCheckbox1">Ativo</label>
+        </div>
+        <div class="col-12 d-flex justify-content-center gap-3">
+          <button type="submit" class="btn btn-success">Cadastrar</button>
+          <button type="reset" class="btn btn-primary">Limpar</button>
+          <a href="/access-panel" class="btn btn-secondary">CANCELAR</a>
+        </div>
+      </form>
+
+      <%- include('../partials/footer.ejs'); %>

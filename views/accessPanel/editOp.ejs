@@ -1,0 +1,44 @@
+<%- include('../partials/header.ejs'); %>
+  <%- include('../partials/navbarPanel.ejs'); %>
+
+    <body class="gradient">
+
+      <form method="POST" action="/access-panel/update" class="row g-3 col-5 m-auto mb-0 shadow-lg p-5 bg-light row g-3 col-5 m-auto  shadow-lg p-5 mt-5 rounded">
+        <h4 class="text-center text-uppercase fs-4">Editar Operador</h4>
+        <input type="hidden" name="id" value="<%= userPanel._id %>">
+        <div class="col-12">
+          <input type="text" class="form-control" placeholder="Nome completo" name="name" value="<%= userPanel.name %>">
+        </div>
+        <div class="col-8">
+          <input type="email" class="form-control" placeholder="e-mail corporativo" name="email" value="<%= userPanel.email %>">
+        </div>
+        <div class="col-4">
+          <input type="password" class="form-control" name="password" placeholder="Senha">
+        </div>
+        <div class="col-6">
+          <input type="text" class="form-control" placeholder="Cargo" name="occupation" value="<%= userPanel.occupation %>">
+        </div>
+        <div class="col-6">
+          <select class="form-select" name="company">
+            <option>Comeri Matriz</option>
+            <option>Comeri Praia Grande</option>
+            <option>Comeri Peruibe</option>
+            <option>JK Seguros</option>
+            <option>Iremoc Showroom Santos</option>
+            <option>Iremoc Pos Vendas Santos</option>
+            <option>Iremoc Guaruja</option>
+            <option>Iremoc Praia Grande</option>
+          </select>
+        </div>
+        <div>
+          <input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="statusUser" value="<%= userPanel.statusUser %>">
+          <label class="form-check-label" for="inlineCheckbox1">Ativo</label>
+        </div>
+        <div class="col-12 d-flex justify-content-center gap-3 pt-5">
+          <button type="submit" class="btn btn-warning">SALVAR ALTERAÇÕES</button>
+          <a href="/access-panel/delete/<%= userPanel._id %>" class="btn btn-danger" id="btnDel">EXCLUIR USUÁRIO</a>
+          <a href="/access-panel" class="btn btn-secondary">CANCELAR</a>
+        </div>
+      </form>
+
+      <%- include('../partials/footer.ejs'); %>
