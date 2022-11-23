@@ -1,1643 +1,2533 @@
-[
-  {
-    "ramal": 8249,
-    "name": "Maria Eduarda",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8032,
-    "name": "Bruna Miranda",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8033,
-    "name": "Roselaine Tavares",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8042,
-    "name": "José Roberto",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8048,
-    "name": "Marcilene Maia",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8051,
-    "name": "Cátia Alves",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8130,
-    "name": "Soraia Regina",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8141,
-    "name": "Thainá Souza",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8143,
-    "name": "Pérsida Medeiros",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8145,
-    "name": "Wagner Vassorelli",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8147,
-    "name": "Elizabeth Manata",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8184,
-    "name": "Raphael Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8185,
-    "name": "Raphael Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8041,
-    "name": "Augusto Portela",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8052,
-    "name": "Rafael Morato",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8326,
-    "name": "Wellington Callado",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8073,
-    "name": "Akira Rocha",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8074,
-    "name": "Robinson Schalch",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8076,
-    "name": "Dyonathan Genaro",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8077,
-    "name": "Ubiratam Junior",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8075,
-    "name": "Daniel Santos",
-    "occupation": "Gerente de Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8159,
-    "name": "Everton Toledo",
-    "occupation": "Gerente Auto Avaliar",
-    "department": "Avaliação",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8097,
-    "name": "Guina Cezário",
-    "occupation": "Venda Mesa",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8098,
-    "name": "Roberta Santos",
-    "occupation": "BASYS/COMPRA VEIC. VW",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8088,
-    "name": "Akira Andrade",
-    "occupation": "Operadora F&I",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8318,
-    "name": "José Roberto",
-    "occupation": "Operadora F&I",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8319,
-    "name": "Livre",
-    "occupation": "Operadora F&I",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8317,
-    "name": "Bruno Scaranelo",
-    "occupation": "Gerente de F&I",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8308,
-    "name": "Daiane Silva",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8309,
-    "name": "Kauan Prado",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8313,
-    "name": "Andréia Bento",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8315,
-    "name": "Mariana Carvalho",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8323,
-    "name": "Patrick Batista",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8324,
-    "name": "Vitória Paz",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8325,
-    "name": "Letícia Pires",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8327,
-    "name": "Daniele Costa",
-    "occupation": "Operador(a) de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8300,
-    "name": "Simone Cipriano",
-    "occupation": "Gerente de Leads",
-    "department": "Leads",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8039,
-    "name": "Bárbara Nogueira",
-    "occupation": "Entregador(a) Técnica",
-    "department": "Entrega Tècnica",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8177,
-    "name": "Henrique Simões",
-    "occupation": "Vendedor de Consórcio",
-    "department": "Consórcio",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8005,
-    "name": "Joaquim Augusto",
-    "occupation": "Diretor Comercial",
-    "department": "Vendas Showroom",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8200,
-    "name": "Renato Silva",
-    "occupation": "Vendedor(a) Balcão",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8298,
-    "name": "Maciel Silva",
-    "occupation": "Vendedor(a) Balcão",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8216,
-    "name": "Nilto Lyra",
-    "occupation": "Vendedor(a) Externo",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8218,
-    "name": "Luis Filho",
-    "occupation": "Vendedor(a) Externo",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8217,
-    "name": "Ícaro Moraes",
-    "occupation": "Vendedor(a) WebPeças",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8218,
-    "name": "Luis Filho",
-    "occupation": "Vendedor(a) Externo",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8034,
-    "name": "Leninha Mendes",
-    "occupation": "Vendedor(a) de Acessórios",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8215,
-    "name": "Matheus Araújo",
-    "occupation": "Estoquista",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8224,
-    "name": "Edinho Barbosa",
-    "occupation": "Estoquista",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8222,
-    "name": "Renan Lopes",
-    "occupation": "Boqueta",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8214,
-    "name": "Andrea Silva",
-    "occupation": "Secretária",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8008,
-    "name": "Miguel Silva",
-    "occupation": "Diretor Pós Vendas",
-    "department": "Peças",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8212,
-    "name": "Sara Tavares",
-    "occupation": "Recepcionista",
-    "department": "Oficina",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8206,
-    "name": "Luiz Júnior",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8207,
-    "name": "Lilian Penha",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8208,
-    "name": "Stanley Barbosa",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8285,
-    "name": "Luciano Barros",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8295,
-    "name": "Rafael Silva",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": 1
-  },
-  {
-    "ramal": 8301,
-    "name": "Márcio Miranda",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8312,
-    "name": "Thainá Vieira",
-    "occupation": "Agendador(a)",
-    "department": "CRM",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8320,
-    "name": "Thauane Oliveira",
-    "occupation": "Agendador(a)",
-    "department": "CRM",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8300,
-    "name": "Simone Cipriano",
-    "occupation": "Gerente de CRM",
-    "department": "CRM",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8228,
-    "name": "Elizabeth Oliveira",
-    "occupation": "Supervisora de Garantia",
-    "department": "Garantia",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8226,
-    "name": "Valter Oliveira",
-    "occupation": "Garantista",
-    "department": "Garantia",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8047,
-    "name": "Thainara Barros",
-    "occupation": "Auxiliar Administrativo",
-    "department": "Qualidade",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8142,
-    "name": "Daniele Nunes",
-    "occupation": "Auxiliar Administrativo",
-    "department": "Qualidade",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8041,
-    "name": "Fernanda Marques",
-    "occupation": "Auxiliar Administrativo",
-    "department": "Qualidade",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8316,
-    "name": "Ana Medeiros",
-    "occupation": "Gerente de Qualidade",
-    "department": "Qualidade",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8225,
-    "name": "Wirly Nascimento",
-    "occupation": "Gerente de Serviços",
-    "department": "Oficina",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8030,
-    "name": "Délio Veiga",
-    "occupation": "Analista Contábil",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8118,
-    "name": "Edmilson Lima",
-    "occupation": "Analista Contábil",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8129,
-    "name": "Larissa Oliveira",
-    "occupation": "Analista Contábil",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8296,
-    "name": "Lucas Silva",
-    "occupation": "Analista Contábil",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8035,
-    "name": "Lucia Helena",
-    "occupation": "Contadora",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8004,
-    "name": "Marcos Pescara",
-    "occupation": "Gerente de T.I.",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8264,
-    "name": "Gabriel Lopes",
-    "occupation": "Analista de T.I.",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8266,
-    "name": "Samuel Lima",
-    "occupation": "Analista de T.I.",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8023,
-    "name": "Márcia Ribeiro",
-    "occupation": "Assist. Financeiro (Pagar)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8127,
-    "name": "Dayane Martins",
-    "occupation": "Assist. Financeiro (Pagar)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8119,
-    "name": "Even Souza",
-    "occupation": "Assist. Financeiro (Pagar)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8124,
-    "name": "Melaine Scaranelo",
-    "occupation": "Assist. Financeiro (Receber)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8044,
-    "name": "Maria Socorro",
-    "occupation": "Assist. Financeiro (Receber)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8270,
-    "name": "Adriana Arakaki",
-    "occupation": "Assist. Financeiro (Receber)",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8181,
-    "name": "Luciana Barreto",
-    "occupation": "Operadora de Caixa",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8180,
-    "name": "Daniela Cezário",
-    "occupation": "Tesoureira",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8031,
-    "name": "Eliana Vasconcellos",
-    "occupation": "Cordenadora Fiscal",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8116,
-    "name": "Andressa Mendonça",
-    "occupation": "Analista Fiscal",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8131,
-    "name": "Jonathan Andrade",
-    "occupation": "Auxiliar Fiscal",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8117,
-    "name": "Willian (Arquivo)",
-    "occupation": "Arquivista",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8133,
-    "name": "Joseneide Costa",
-    "occupation": "Gerente de RH",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8271,
-    "name": "Carina Lima",
-    "occupation": "Assistente de RH",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8299,
-    "name": "Kelly Cristina",
-    "occupation": "Gerente de DP",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8272,
-    "name": "Joyce Jesus",
-    "occupation": "Assistente de DP",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8202,
-    "name": "Silvana Tabajara",
-    "occupation": "Faturista / Despachante",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8210,
-    "name": "Lucimar Ribeiro",
-    "occupation": "Faturista / Despachante",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8128,
-    "name": "Simone Regina",
-    "occupation": "Assist. Administrativo JK",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8036,
-    "name": "Márcia Scaranelo",
-    "occupation": "Gerente de Compras",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8132,
-    "name": "Rúbia Lourenço",
-    "occupation": "Gerente de Marketing",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8006,
-    "name": "Lourival Carneiro",
-    "occupation": "Gerente Administrativo",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8007,
-    "name": "Elizabete Prado",
-    "occupation": "Gerente Financeira",
-    "department": "Administrativo",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8002,
-    "name": "Sr. João Scaranelo",
-    "occupation": "Diretor",
-    "department": "Diretoria",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 8003,
-    "name": "Sra. Katiúscia Freitas",
-    "occupation": "Diretora",
-    "department": "Diretoria",
-    "company": "Comeri Matriz",
-    "statusUser": true
-  },
-  {
-    "ramal": 2100,
-    "name": "Ana Freitas",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Patricia Cruz",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "César Freitas",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Maira Silva",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Samantha Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Carolina Salgado",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Janaína Campos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 8034,
-    "name": "Edson Almeida",
-    "occupation": "Logistica",
-    "department": "Peças",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2213,
-    "name": "Oduvaldo Junior",
-    "occupation": "Venda de Peças / Estoquista",
-    "department": "Peças",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Celiane França",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Nicholas Simonetti",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Carolina Salgado",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 8177,
-    "name": "Rogério Medina / Jorge Jr.",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 8177,
-    "name": "Ramal Consórcio",
-    "occupation": "Vendedor de Consórcio",
-    "department": "Consórcio",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 8177,
-    "name": "Ailton Hilário",
-    "occupation": "Gerente de Serviços",
-    "department": "Oficina",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Tiago Rodrigues",
-    "occupation": "Operadora de Caixa",
-    "department": "Administração",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Alex Bermudes",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
-    "company": "Comeri Praia Grande",
-    "statusUser": true
-  },
-  {
-    "ramal": 9703,
-    "name": "Bruno Jesus",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9704,
-    "name": "Cícero Lima",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9705,
-    "name": "Fabiano Carvalho",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9706,
-    "name": "Bárbara Barbosa",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9707,
-    "name": "Marcio Silva",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9708,
-    "name": "Cleberson Pupo",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9709,
-    "name": "Marcelo Zanelatto",
-    "occupation": "Venda de Peças / Estoquista",
-    "department": "Peças",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9710,
-    "name": "Ygor Novaes",
-    "occupation": "Aprendiz CIEE",
-    "department": "ATC",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9712,
-    "name": "Weberton Lima",
-    "occupation": "Gerente Serv. / Consult.Téc.",
-    "department": "ATC",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9702,
-    "name": "Andrea Pereira",
-    "occupation": "Caixa / Faturamento",
-    "department": "ADM",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 9711,
-    "name": "Francisco Kotzent",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
-    "company": "Comeri Peruibe",
-    "statusUser": true
-  },
-  {
-    "ramal": 2200,
-    "name": "Naomi Honorato",
-    "occupation": "Telefonista",
-    "department": "Oficina",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2201,
-    "name": "Isamara Ferreira",
-    "occupation": "Recepcionista",
-    "department": "Oficina",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2213,
-    "name": "Jurandir Santos",
-    "occupation": "Vendedor(a) Balcão",
-    "department": "Peças",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2209,
-    "name": "Erick Rodrigues",
-    "occupation": "Vendedor(a) Web",
-    "department": "Peças",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2212,
-    "name": "Caio Fahl",
-    "occupation": "SAC",
-    "department": "Peças",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2206,
-    "name": "Juninho Silveira",
-    "occupation": "Gerente de Serviços",
-    "department": "Oficina",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2210,
-    "name": "Everaldo Oliveira",
-    "occupation": "Estoquista",
-    "department": "Peças",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Ismael Silva",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2202,
-    "name": "Anderson Silva",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2203,
-    "name": "Cristiano Araújo",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2205,
-    "name": "Maraisa Saturnino",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2214,
-    "name": "Camilla Mota",
-    "occupation": "Agendador(a)",
-    "department": "CRM",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": null,
-    "name": "Ramal Livre",
-    "occupation": "Agendador(a)",
-    "department": "CRM",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2216,
-    "name": "Marcos Paulo",
-    "occupation": "Agendador(a)",
-    "department": "CRM",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2211,
-    "name": "Fabiana Santos",
-    "occupation": "Operador(a) de Caixa",
-    "department": "Administrativo",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2207,
-    "name": "Matheus Scaranelo",
-    "occupation": "Diretor Pós Vendas",
-    "department": "Administrativo",
-    "company": "Iremoc Pos Vendas Santos",
-    "statusUser": true
-  },
-
-  {
-    "ramal": 2100,
-    "name": "Miriam Pereira",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Bruna Ramos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Douglas Pereira",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Marcelo Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Cristiano Silva",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2113,
-    "name": "Marcos Correia",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 8034,
-    "name": "Roberta Carraresi",
-    "occupation": "Venda Acessórios / Entrega",
-    "department": "Peças",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2213,
-    "name": "Diego Santana",
-    "occupation": "Venda de Peças / Estoquista",
-    "department": "Peças",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Elaine Nunes",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Iuri Cruz",
-    "occupation": "Auxiliar Administrativo",
-    "department": "Administração",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Tainara Souza",
-    "occupation": "Operadora de Caixa",
-    "department": "Administração",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-  {
-    "ramal": 2204,
-    "name": "Marcelo Fonseca",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Guaruja",
-    "statusUser": true
-  },
-
-  {
-    "ramal": 2100,
-    "name": "Stephanie Andrade (Fixo)",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
+[{
+  "_id": {
+    "$oid": "63456d64581c04f249c40363"
+  },
+  "ramal": 8249,
+  "name": "Maria Eduarda",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40364"
+  },
+  "ramal": 8032,
+  "name": "Bruna Miranda",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40365"
+  },
+  "ramal": 8033,
+  "name": "Roselaine Tavares",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40366"
+  },
+  "ramal": 8042,
+  "name": "José Roberto",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40367"
+  },
+  "ramal": 8048,
+  "name": "Marcilene Maia",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40368"
+  },
+  "ramal": 8051,
+  "name": "Cátia Alves",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40369"
+  },
+  "ramal": 8130,
+  "name": "Soraia Regina",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036a"
+  },
+  "ramal": 8141,
+  "name": "Thainá Souza",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036b"
+  },
+  "ramal": 8143,
+  "name": "Pérsida Medeiros",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036c"
+  },
+  "ramal": 8145,
+  "name": "Wagner Vassorelli",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036d"
+  },
+  "ramal": 8147,
+  "name": "Elizabeth Manata",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036e"
+  },
+  "ramal": 8184,
+  "name": "Raphael Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4036f"
+  },
+  "ramal": 8185,
+  "name": "Raphael Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40370"
+  },
+  "ramal": 8041,
+  "name": "Augusto Portela",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40371"
+  },
+  "ramal": 8052,
+  "name": "Rafael Morato",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40372"
+  },
+  "ramal": 8326,
+  "name": "Wellington Callado",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40373"
+  },
+  "ramal": 8073,
+  "name": "Akira Rocha",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40374"
+  },
+  "ramal": 8074,
+  "name": "Robinson Schalch",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40375"
+  },
+  "ramal": 8076,
+  "name": "Dyonathan Genaro",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40376"
+  },
+  "ramal": 8077,
+  "name": "Ubiratam Junior",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40377"
+  },
+  "ramal": 8075,
+  "name": "Daniel Santos",
+  "occupation": "Gerente de Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40378"
+  },
+  "ramal": 8159,
+  "name": "Everton Toledo",
+  "occupation": "Gerente Auto Avaliar",
+  "department": "Avaliação",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40379"
+  },
+  "ramal": 8097,
+  "name": "Guina Cezário",
+  "occupation": "Venda Mesa",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037a"
+  },
+  "ramal": 8098,
+  "name": "Roberta Santos",
+  "occupation": "BASYS/COMPRA VEIC. VW",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037b"
+  },
+  "ramal": 8088,
+  "name": "Akira Andrade",
+  "occupation": "Operadora F&I",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037c"
+  },
+  "ramal": 8318,
+  "name": "José Roberto",
+  "occupation": "Operadora F&I",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037d"
+  },
+  "ramal": 8319,
+  "name": "Livre",
+  "occupation": "Operadora F&I",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037e"
+  },
+  "ramal": 8317,
+  "name": "Bruno Scaranelo",
+  "occupation": "Gerente de F&I",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4037f"
+  },
+  "ramal": 8308,
+  "name": "Daiane Silva",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40380"
+  },
+  "ramal": 8309,
+  "name": "Kauan Prado",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40381"
+  },
+  "ramal": 8313,
+  "name": "Andréia Bento",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40382"
+  },
+  "ramal": 8315,
+  "name": "Mariana Carvalho",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40383"
+  },
+  "ramal": 8323,
+  "name": "Patrick Batista",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40384"
+  },
+  "ramal": 8324,
+  "name": "Vitória Paz",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40385"
+  },
+  "ramal": 8325,
+  "name": "Letícia Pires",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40386"
+  },
+  "ramal": 8327,
+  "name": "Daniele Costa",
+  "occupation": "Operador(a) de Leads",
+  "department": "Leads",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40387"
+  },
+  "ramal": 8300,
+  "name": "Simone Cipriano",
+  "occupation": "Gestora de CRM",
+  "department": "CRM",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40388"
+  },
+  "ramal": 8039,
+  "name": "Bárbara Nogueira",
+  "occupation": "Entregador(a) Técnica",
+  "department": "Entrega Tècnica",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40389"
+  },
+  "ramal": 8177,
+  "name": "Henrique Simões",
+  "occupation": "Vendedor de Consórcio",
+  "department": "Consórcio",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038a"
+  },
+  "ramal": 8005,
+  "name": "Joaquim Augusto",
+  "occupation": "Diretor Comercial",
+  "department": "Vendas Showroom",
+  "company": "Comeri Matriz",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038b"
+  },
+  "ramal": 8200,
+  "name": "Renato Silva",
+  "occupation": "Vendedor(a) Balcão",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038c"
+  },
+  "ramal": 8298,
+  "name": "Maciel Silva",
+  "occupation": "Vendedor(a) Balcão",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038d"
+  },
+  "ramal": 8216,
+  "name": "Nilto Lyra",
+  "occupation": "Vendedor(a) Externo",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038e"
+  },
+  "ramal": 8218,
+  "name": "Luis Filho",
+  "occupation": "Vendedor(a) Externo",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4038f"
+  },
+  "ramal": 8217,
+  "name": "Ícaro Moraes",
+  "occupation": "Vendedor(a) WebPeças",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40390"
+  },
+  "ramal": 8218,
+  "name": "Luis Filho",
+  "occupation": "Vendedor(a) Externo",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40391"
+  },
+  "ramal": 8034,
+  "name": "Leninha Mendes",
+  "occupation": "Vendedor(a) de Acessórios",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40392"
+  },
+  "ramal": 8215,
+  "name": "Matheus Araújo",
+  "occupation": "Estoquista",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40393"
+  },
+  "ramal": 8224,
+  "name": "Edinho Barbosa",
+  "occupation": "Estoquista",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40394"
+  },
+  "ramal": 8222,
+  "name": "Renan Lopes",
+  "occupation": "Boqueta",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40395"
+  },
+  "ramal": 8214,
+  "name": "Andrea Silva",
+  "occupation": "Secretária",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40396"
+  },
+  "ramal": 8008,
+  "name": "Miguel Silva",
+  "occupation": "Diretor Pós Vendas",
+  "department": "Peças",
+  "company": "Comeri Matriz",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40397"
+  },
+  "ramal": 8212,
+  "name": "Sara Tavares",
+  "occupation": "Recepcionista",
+  "department": "Oficina",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40398"
+  },
+  "ramal": 8206,
+  "name": "Luiz Júnior",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40399"
+  },
+  "ramal": 8207,
+  "name": "Lilian Penha",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039a"
+  },
+  "ramal": 8208,
+  "name": "Stanley Barbosa",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039b"
+  },
+  "ramal": 8285,
+  "name": "Luciano Barros",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039c"
+  },
+  "ramal": 8295,
+  "name": "Rafael Silva",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": 1
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039d"
+  },
+  "ramal": 8301,
+  "name": "Márcio Miranda",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039e"
+  },
+  "ramal": 8312,
+  "name": "Thainá Vieira",
+  "occupation": "Agendador(a)",
+  "department": "CRM",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4039f"
+  },
+  "ramal": 8320,
+  "name": "Thauane Oliveira",
+  "occupation": "Agendador(a)",
+  "department": "CRM",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a0"
+  },
+  "ramal": 8300,
+  "name": "Simone Cipriano",
+  "occupation": "Gerente de CRM",
+  "department": "CRM",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a1"
+  },
+  "ramal": 8228,
+  "name": "Elizabeth Oliveira",
+  "occupation": "Supervisora de Garantia",
+  "department": "Garantia",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a2"
+  },
+  "ramal": 8226,
+  "name": "Valter Oliveira",
+  "occupation": "Garantista",
+  "department": "Garantia",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a3"
+  },
+  "ramal": 8047,
+  "name": "Thainara Barros",
+  "occupation": "Auxiliar Administrativo",
+  "department": "Qualidade",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a4"
+  },
+  "ramal": 8142,
+  "name": "Daniele Nunes",
+  "occupation": "Auxiliar Administrativo",
+  "department": "Qualidade",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a5"
+  },
+  "ramal": 8041,
+  "name": "Fernanda Marques",
+  "occupation": "Auxiliar Administrativo",
+  "department": "Qualidade",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a6"
+  },
+  "ramal": 8316,
+  "name": "Ana Medeiros",
+  "occupation": "Gerente de Qualidade",
+  "department": "Qualidade",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a7"
+  },
+  "ramal": 8225,
+  "name": "Wirly Nascimento",
+  "occupation": "Gerente de Serviços",
+  "department": "Oficina",
+  "company": "Comeri Matriz",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a8"
+  },
+  "ramal": 8030,
+  "name": "Délio Veiga",
+  "occupation": "Analista Contábil",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403a9"
+  },
+  "ramal": 8118,
+  "name": "Edmilson Lima",
+  "occupation": "Analista Contábil",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403aa"
+  },
+  "ramal": 8129,
+  "name": "Larissa Oliveira",
+  "occupation": "Analista Contábil",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ab"
+  },
+  "ramal": 8296,
+  "name": "Lucas Silva",
+  "occupation": "Analista Contábil",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ac"
+  },
+  "ramal": 8035,
+  "name": "Lucia Helena",
+  "occupation": "Contadora",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ad"
+  },
+  "ramal": 8004,
+  "name": "Marcos Pescara",
+  "occupation": "Gerente de T.I.",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ae"
+  },
+  "ramal": 8264,
+  "name": "Gabriel Lopes",
+  "occupation": "Analista de T.I.",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403af"
+  },
+  "ramal": 8266,
+  "name": "Samuel Lima",
+  "occupation": "Analista de T.I.",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b0"
+  },
+  "ramal": 8023,
+  "name": "Márcia Ribeiro",
+  "occupation": "Assist. Financeiro (Pagar)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b1"
+  },
+  "ramal": 8127,
+  "name": "Dayane Martins",
+  "occupation": "Assist. Financeiro (Pagar)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b2"
+  },
+  "ramal": 8119,
+  "name": "Even Souza",
+  "occupation": "Assist. Financeiro (Pagar)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b3"
+  },
+  "ramal": 8124,
+  "name": "Melaine Scaranelo",
+  "occupation": "Assist. Financeiro (Receber)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b4"
+  },
+  "ramal": 8044,
+  "name": "Maria Socorro",
+  "occupation": "Assist. Financeiro (Receber)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b5"
+  },
+  "ramal": 8270,
+  "name": "Adriana Arakaki",
+  "occupation": "Assist. Financeiro (Receber)",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b6"
+  },
+  "ramal": 8181,
+  "name": "Luciana Barreto",
+  "occupation": "Operadora de Caixa",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b7"
+  },
+  "ramal": 8180,
+  "name": "Daniela Cezário",
+  "occupation": "Tesoureira",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b8"
+  },
+  "ramal": 8031,
+  "name": "Eliana Vasconcellos",
+  "occupation": "Cordenadora Fiscal",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403b9"
+  },
+  "ramal": 8116,
+  "name": "Andressa Mendonça",
+  "occupation": "Analista Fiscal",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ba"
+  },
+  "ramal": 8131,
+  "name": "Jonathan Andrade",
+  "occupation": "Auxiliar Fiscal",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403bb"
+  },
+  "ramal": 8117,
+  "name": "Willian (Arquivo)",
+  "occupation": "Arquivista",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403bc"
+  },
+  "ramal": 8133,
+  "name": "Joseneide Costa",
+  "occupation": "Gerente de RH",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403bd"
+  },
+  "ramal": 8271,
+  "name": "Carina Lima",
+  "occupation": "Assistente de RH",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403be"
+  },
+  "ramal": 8299,
+  "name": "Kelly Cristina",
+  "occupation": "Gerente de DP",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403bf"
+  },
+  "ramal": 8272,
+  "name": "Joyce Jesus",
+  "occupation": "Assistente de DP",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c0"
+  },
+  "ramal": 8202,
+  "name": "Silvana Tabajara",
+  "occupation": "Faturista / Despachante",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c1"
+  },
+  "ramal": 8210,
+  "name": "Lucimar Ribeiro",
+  "occupation": "Faturista / Despachante",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c2"
+  },
+  "ramal": 8128,
+  "name": "Simone Regina",
+  "occupation": "Assist. Administrativo JK",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c3"
+  },
+  "ramal": 8036,
+  "name": "Márcia Scaranelo",
+  "occupation": "Gerente de Compras",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c4"
+  },
+  "ramal": 8132,
+  "name": "Rúbia Lourenço",
+  "occupation": "Gerente de Marketing",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c5"
+  },
+  "ramal": 8006,
+  "name": "Lourival Carneiro",
+  "occupation": "Gerente Administrativo",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c6"
+  },
+  "ramal": 8007,
+  "name": "Elizabete Prado",
+  "occupation": "Gerente Financeira",
+  "department": "Administrativo",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c7"
+  },
+  "ramal": 8002,
+  "name": "Sr. João Scaranelo",
+  "occupation": "Diretor",
+  "department": "Diretoria",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c8"
+  },
+  "ramal": 8003,
+  "name": "Sra. Katiúscia Freitas",
+  "occupation": "Diretora",
+  "department": "Diretoria",
+  "company": "Comeri Matriz",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403c9"
+  },
+  "ramal": 2100,
+  "name": "Ana Freitas",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ca"
+  },
+  "ramal": 2113,
+  "name": "Patricia Cruz",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403cb"
+  },
+  "ramal": 2113,
+  "name": "César Freitas",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403cc"
+  },
+  "ramal": 2113,
+  "name": "Maira Silva",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403cd"
+  },
+  "ramal": 2113,
+  "name": "Samantha Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ce"
+  },
+  "ramal": 2113,
+  "name": "Carolina Salgado",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403cf"
+  },
+  "ramal": 2113,
+  "name": "Janaína Campos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d0"
+  },
+  "ramal": 8034,
+  "name": "Edson Almeida",
+  "occupation": "Logistica",
+  "department": "Vendas",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d1"
+  },
+  "ramal": 2213,
+  "name": "Oduvaldo Junior",
+  "occupation": "Venda de Peças / Estoquista",
+  "department": "Peças",
+  "company": "Comeri Praia Grande",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d2"
+  },
+  "ramal": 2204,
+  "name": "Celiane França",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Praia Grande",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d3"
+  },
+  "ramal": 2204,
+  "name": "Nicholas Simonetti",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Comeri Praia Grande",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d4"
+  },
+  "ramal": 2113,
+  "name": "Carolina Salgado",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d5"
+  },
+  "ramal": 8177,
+  "name": "Rogério Medina / Jorge Jr.",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d6"
+  },
+  "ramal": 8177,
+  "name": "Ramal Consórcio",
+  "occupation": "Vendedor de Consórcio",
+  "department": "Consórcio",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d7"
+  },
+  "ramal": 8177,
+  "name": "Ailton Hilário",
+  "occupation": "Gerente de Serviços",
+  "department": "Oficina",
+  "company": "Comeri Praia Grande",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d8"
+  },
+  "ramal": 2204,
+  "name": "Tiago Rodrigues",
+  "occupation": "Operadora de Caixa",
+  "department": "Administração",
+  "company": "Comeri Praia Grande",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403d9"
+  },
+  "ramal": 2204,
+  "name": "Alex Bermudes",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
+  "company": "Comeri Praia Grande",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403da"
+  },
+  "ramal": 9703,
+  "name": "Bruno Jesus",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+  "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403db"
+  },
+  "ramal": 9704,
+  "name": "Cícero Lima",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403dc"
+  },
+  "ramal": 9705,
+  "name": "Fabiano Carvalho",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403dd"
+  },
+  "ramal": 9706,
+  "name": "Bárbara Barbosa",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403de"
+  },
+  "ramal": 9707,
+  "name": "Marcio Silva",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403df"
+  },
+  "ramal": 9708,
+  "name": "Cleberson Pupo",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e0"
+  },
+  "ramal": 9709,
+  "name": "Marcelo Zanelatto",
+  "occupation": "Venda de Peças / Estoquista",
+  "department": "Peças",
+  "company": "Comeri Peruibe",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e1"
+  },
+  "ramal": 9710,
+  "name": "Ygor Novaes",
+  "occupation": "Aprendiz CIEE",
+  "department": "ATC",
+  "company": "Comeri Peruibe",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e2"
+  },
+  "ramal": 9712,
+  "name": "Weberton Lima",
+  "occupation": "Gerente Serv. / Consult.Téc.",
+  "department": "ATC",
+  "company": "Comeri Peruibe",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e3"
+  },
+  "ramal": 9702,
+  "name": "Andrea Pereira",
+  "occupation": "Caixa / Faturamento",
+  "department": "ADM",
+  "company": "Comeri Peruibe",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e4"
+  },
+  "ramal": 9711,
+  "name": "Francisco Kotzent",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
+  "company": "Comeri Peruibe",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "COMERI"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e5"
+  },
+  "ramal": 2200,
+  "name": "Naomi Honorato",
+  "occupation": "Telefonista",
+  "department": "Oficina",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e6"
+  },
+  "ramal": 2201,
+  "name": "Isamara Ferreira",
+  "occupation": "Recepcionista",
+  "department": "Oficina",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e7"
+  },
+  "ramal": 2213,
+  "name": "Jurandir Santos",
+  "occupation": "Vendedor(a) Balcão",
+  "department": "Peças",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e8"
+  },
+  "ramal": 2209,
+  "name": "Erick Rodrigues",
+  "occupation": "Vendedor(a) Web",
+  "department": "Peças",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403e9"
+  },
+  "ramal": 2212,
+  "name": "Caio Fahl",
+  "occupation": "SAC",
+  "department": "Peças",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ea"
+  },
+  "ramal": 2206,
+  "name": "Juninho Silveira",
+  "occupation": "Gerente de Serviços",
+  "department": "Oficina",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403eb"
+  },
+  "ramal": 2210,
+  "name": "Everaldo Oliveira",
+  "occupation": "Estoquista",
+  "department": "Peças",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ec"
+  },
+  "ramal": 2204,
+  "name": "Ismael Silva",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ed"
+  },
+  "ramal": 2202,
+  "name": "Anderson Silva",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ee"
+  },
+  "ramal": 2203,
+  "name": "Cristiano Araújo",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ef"
+  },
+  "ramal": 2205,
+  "name": "Maraisa Saturnino",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f0"
+  },
+  "ramal": 2214,
+  "name": "Camilla Mota",
+  "occupation": "Agendador(a)",
+  "department": "CRM",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f1"
+  },
+  "ramal": null,
+  "name": "Ramal Livre",
+  "occupation": "Agendador(a)",
+  "department": "CRM",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f2"
+  },
+  "ramal": 2216,
+  "name": "Marcos Paulo",
+  "occupation": "Agendador(a)",
+  "department": "CRM",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f3"
+  },
+  "ramal": 2211,
+  "name": "Fabiana Santos",
+  "occupation": "Operador(a) de Caixa",
+  "department": "Administrativo",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f4"
+  },
+  "ramal": 2207,
+  "name": "Matheus Scaranelo",
+  "occupation": "Diretor Pós Vendas",
+  "department": "Administrativo",
+  "company": "Iremoc Pos Vendas Santos",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+  
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f5"
+  },
+  "ramal": 2100,
+  "name": "Miriam Pereira",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f6"
+  },
+  "ramal": 2113,
+  "name": "Bruna Ramos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f7"
+  },
+  "ramal": 2113,
+  "name": "Douglas Pereira",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f8"
+  },
+  "ramal": 2113,
+  "name": "Marcelo Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403f9"
+  },
+  "ramal": 2113,
+  "name": "Cristiano Silva",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403fa"
+  },
+  "ramal": 2113,
+  "name": "Marcos Correia",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403fb"
+  },
+  "ramal": 8034,
+  "name": "Roberta Carraresi",
+  "occupation": "Venda Acessórios / Entrega",
+  "department": "Peças",
+   "company": "Iremoc Guaruja",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403fc"
+  },
+  "ramal": 2213,
+  "name": "Diego Santana",
+  "occupation": "Venda de Peças / Estoquista",
+  "department": "Peças",
+   "company": "Iremoc Guaruja",
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403fd"
+  },
+  "ramal": 2204,
+  "name": "Elaine Nunes",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
+   "company": "Iremoc Guaruja",
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403fe"
+  },
+  "ramal": 2204,
+  "name": "Iuri Cruz",
+  "occupation": "Auxiliar Administrativo",
+  "department": "Administração",
+   "company": "Iremoc Guaruja",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c403ff"
+  },
+  "ramal": 2204,
+  "name": "Tainara Souza",
+  "occupation": "Operadora de Caixa",
+  "department": "Administração",
+   "company": "Iremoc Guaruja",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40400"
+  },
+  "ramal": 2204,
+  "name": "Marcelo Fonseca",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
+   "company": "Iremoc Guaruja",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40401"
+  },
+  "ramal": 2100,
+  "name": "Stephanie Andrade (Fixo)",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40402"
   },
-  {
-    "ramal": 2110,
-    "name": "Stephanie Andrade (Móvel)",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
+  "ramal": 2110,
+  "name": "Stephanie Andrade (Móvel)",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40403"
   },
-  {
-    "ramal": 2103,
-    "name": "André Oliveira",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2103,
+  "name": "André Oliveira",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40404"
   },
-  {
-    "ramal": 2108,
-    "name": "Jorge Barreto",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2108,
+  "name": "Jorge Barreto",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40405"
   },
-  {
-    "ramal": 2111,
-    "name": "Adriano Nunes",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2111,
+  "name": "Adriano Nunes",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40406"
   },
-  {
-    "ramal": 2112,
-    "name": "Gabriele Cassanta",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2112,
+  "name": "Gabriele Cassanta",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40407"
   },
-  {
-    "ramal": 2107,
-    "name": "Vanessa Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2107,
+  "name": "Vanessa Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40408"
   },
-  {
-    "ramal": 2113,
-    "name": "Marcela Dulgher",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2113,
+  "name": "Marcela Dulgher",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40409"
   },
-  {
-    "ramal": 2107,
-    "name": "Vanessa Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2107,
+  "name": "Vanessa Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040a"
   },
-  {
-    "ramal": 2107,
-    "name": "Vanessa Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2107,
+  "name": "Vanessa Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040b"
   },
-  {
-    "ramal": 2107,
-    "name": "Vanessa Santos",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2107,
+  "name": "Vanessa Santos",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040c"
   },
-  {
-    "ramal": 2102,
-    "name": "Kellem Coelho",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
+  "ramal": 2102,
+  "name": "Kellem Coelho",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040d"
   },
-  {
-    "ramal": 2104,
-    "name": "Janaína Almeida",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
+  "ramal": 2104,
+  "name": "Janaína Almeida",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040e"
   },
-  {
-    "ramal": 2105,
-    "name": "Michelle Mendes",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
+  "ramal": 2105,
+  "name": "Michelle Mendes",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4040f"
   },
-  {
-    "ramal": 2109,
-    "name": "Érica Coscioni",
-    "occupation": "Gerente de Venda Direta",
-    "department": "Frotas",
+  "ramal": 2109,
+  "name": "Érica Coscioni",
+  "occupation": "Gerente de Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40410"
   },
-  {
-    "ramal": 2116,
-    "name": "Douglas Baltar",
-    "occupation": "Vendedor(a) de Acessórios",
-    "department": "Peças",
+  "ramal": 2116,
+  "name": "Douglas Baltar",
+  "occupation": "Vendedor(a) de Acessórios",
+  "department": "Peças",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40411"
   },
-  {
-    "ramal": 2114,
-    "name": "Cláudia Lopes",
-    "occupation": "Operadora de Caixa",
-    "department": "Administrativo",
+  "ramal": 2114,
+  "name": "Cláudia Lopes",
+  "occupation": "Operadora de Caixa",
+  "department": "Administrativo",
+  "company": "Iremoc Showroom Santos",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40412"
+  },
+  "ramal": 2115,
+  "name": "Mira Santos",
+  "occupation": "Operadora de Caixa",
+  "department": "Administrativo",
+  "company": "Iremoc Showroom Santos",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40413"
+  },
+  "ramal": 2106,
+  "name": "Gabriela Pinheiro",
+  "occupation": "Aprendiz CIEE",
+  "department": "Administrativo",
+  "company": "Iremoc Showroom Santos",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40414"
+  },
+  "ramal": 2101,
+  "name": "Gilmar Augusto",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40415"
   },
-  {
-    "ramal": 2115,
-    "name": "Mira Santos",
-    "occupation": "Operadora de Caixa",
-    "department": "Administrativo",
+  "ramal": 2117,
+  "name": "Gustavo Manzi",
+  "occupation": "Diretor Comercial",
+  "department": "Administrativo",
     "company": "Iremoc Showroom Santos",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40416"
   },
-  {
-    "ramal": 2106,
-    "name": "Gabriela Pinheiro",
-    "occupation": "Aprendiz CIEE",
-    "department": "Administrativo",
-    "company": "Iremoc Showroom Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2101,
-    "name": "Gilmar Augusto",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
-    "company": "Iremoc Showroom Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2117,
-    "name": "Gustavo Manzi",
-    "occupation": "Diretor Comercial",
-    "department": "Administrativo",
-    "company": "Iremoc Showroom Santos",
-    "statusUser": true
-  },
-  {
-    "ramal": 2100,
-    "name": "Suzane Mendonça (Fixo)",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
+  "ramal": 2100,
+  "name": "Suzane Mendonça (Fixo)",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40417"
   },
-  {
-    "ramal": 2110,
-    "name": "Suzane Mendonça (Móvel)",
-    "occupation": "Recepcionista",
-    "department": "Vendas Showroom",
+  "ramal": 2110,
+  "name": "Suzane Mendonça (Móvel)",
+  "occupation": "Recepcionista",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40418"
   },
-  {
-    "ramal": 2113,
-    "name": "Leandro Felix",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2113,
+  "name": "Leandro Felix",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40419"
   },
-  {
-    "ramal": 2113,
-    "name": "Felipe Alves",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2113,
+  "name": "Felipe Alves",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041a"
   },
-  {
-    "ramal": 2113,
-    "name": "Maria Silva",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2113,
+  "name": "Maria Silva",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041b"
   },
-  {
-    "ramal": 2113,
-    "name": "Michella Arbolea",
-    "occupation": "Vendedor(a) de Veículos",
-    "department": "Vendas Showroom",
+  "ramal": 2113,
+  "name": "Michella Arbolea",
+  "occupation": "Vendedor(a) de Veículos",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041c"
   },
-  {
-    "ramal": 2102,
-    "name": "Samire Castro",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
+  "ramal": 2102,
+  "name": "Samire Castro",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041d"
   },
-  {
-    "ramal": 2102,
-    "name": "Sérgio Júnior",
-    "occupation": "Vendedor(a) Venda Direta",
-    "department": "Frotas",
+  "ramal": 2102,
+  "name": "Sérgio Júnior",
+  "occupation": "Vendedor(a) Venda Direta",
+  "department": "Frotas",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041e"
   },
-  {
-    "ramal": 8034,
-    "name": "Thiago Oliveira",
-    "occupation": "Venda Acessórios / Entrega",
-    "department": "Peças",
+  "ramal": 8034,
+  "name": "Thiago Oliveira",
+  "occupation": "Venda Acessórios / Entrega",
+  "department": "Peças",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4041f"
   },
-  {
-    "ramal": 2213,
-    "name": "Caio Pedroso",
-    "occupation": "Venda de Peças / Estoquista",
-    "department": "Peças",
+  "ramal": 2213,
+  "name": "Caio Pedroso",
+  "occupation": "Venda de Peças / Estoquista",
+  "department": "Peças",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "PECAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40420"
   },
-  {
-    "ramal": 2204,
-    "name": "Marcos Santos",
-    "occupation": "Consultor(a) Técnico(a)",
-    "department": "ATC",
+  "ramal": 2204,
+  "name": "Marcos Santos",
+  "occupation": "Consultor(a) Técnico(a)",
+  "department": "ATC",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "OFICINA",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40421"
   },
-  {
-    "ramal": 2204,
-    "name": "Margareth Galatro",
-    "occupation": "Operadora de Caixa",
-    "department": "Administração",
+  "ramal": 2204,
+  "name": "Margareth Galatro",
+  "occupation": "Operadora de Caixa",
+  "department": "Administração",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40422"
   },
-  {
-    "ramal": 2204,
-    "name": "Jader Fernandes",
-    "occupation": "Gerente de Vendas",
-    "department": "Vendas Showroom",
+  "ramal": 2204,
+  "name": "Jader Fernandes",
+  "occupation": "Gerente de Vendas",
+  "department": "Vendas Showroom",
     "company": "Iremoc Praia Grande",
-    "statusUser": true
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "IREMOC"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40423"
   },
-  {
-    "ramal": 7001,
-    "name": "Priscila Oliveira",
-    "occupation": "Gerente JK Seguros",
-    "department": "Administrativo",
+  "ramal": 7001,
+  "name": "Priscila Oliveira",
+  "occupation": "Gerente JK Seguros",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40424"
   },
-  {
-    "ramal": 7002,
-    "name": "Flávia Rosa",
-    "occupation": "Endosso/Sinistro",
-    "department": "Administrativo",
+  "ramal": 7002,
+  "name": "Flávia Rosa",
+  "occupation": "Endosso/Sinistro",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40425"
   },
-  {
-    "ramal": 7003,
-    "name": "Patrícia Contart",
-    "occupation": "Analista de Cobrança",
-    "department": "Administrativo",
+  "ramal": 7003,
+  "name": "Patrícia Contart",
+  "occupation": "Analista de Cobrança",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40426"
   },
-  {
-    "ramal": 7005,
-    "name": "Kelly Santos",
-    "occupation": "Sinistro",
-    "department": "Administrativo",
+  "ramal": 7005,
+  "name": "Kelly Santos",
+  "occupation": "Sinistro",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40427"
   },
-  {
-    "ramal": 7006,
-    "name": "Ketulyn Santos",
-    "occupation": "Analista de Cobrança",
-    "department": "Administrativo",
+  "ramal": 7006,
+  "name": "Ketulyn Santos",
+  "occupation": "Analista de Cobrança",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40428"
   },
-  {
-    "ramal": 7007,
-    "name": "Alessandra Pereira",
-    "occupation": "Renovação",
-    "department": "Administrativo",
+  "ramal": 7007,
+  "name": "Alessandra Pereira",
+  "occupation": "Renovação",
+  "department": "Administrativo",
     "company": "JK Seguros",
-    "statusUser": true
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c40429"
   },
-  {
-    "ramal": 7008,
-    "name": "Débora Souza",
-    "occupation": "Renovação",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7008,
+  "name": "Débora Souza",
+  "occupation": "Renovação",
+  "department": "Vendas",
+  "company": "JK Seguros",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042a"
   },
-  {
-    "ramal": 7009,
-    "name": "Jeniffer Martinez",
-    "occupation": "Renovação",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7009,
+  "name": "Jeniffer Martinez",
+  "occupation": "Renovação",
+  "department": "Vendas",
+  "company": "JK Seguros",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042b"
   },
-  {
-    "ramal": 7010,
-    "name": "Thainá Barreto",
-    "occupation": "Renovação",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7010,
+  "name": "Thainá Barreto",
+  "occupation": "Renovação",
+  "department": "Vendas",
+  "company": "JK Seguros",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042c"
   },
-  {
-    "ramal": 7015,
-    "name": "Jennifer Fontes",
-    "occupation": "Isenções",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7015,
+  "name": "Jennifer Fontes",
+  "occupation": "Isenções",
+  "department": "Administrativo",
+  "company": "JK Seguros",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042d"
   },
-  {
-    "ramal": 7000,
-    "name": "Mateus Rodrigues",
-    "occupation": "Assist. Administrativo",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7000,
+  "name": "Mateus Rodrigues",
+  "occupation": "Assist. Administrativo",
+  "department": "Administrativo",
+  "company": "JK Seguros",
+  "area": "ADM",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042e"
   },
-  {
-    "ramal": 7013,
-    "name": "Verônica Katzor",
-    "occupation": "Assist. Administrativo",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
+  "ramal": 7013,
+  "name": "Verônica Katzor",
+  "occupation": "Assist. Administrativo",
+  "department": "Administrativo",
+  "company": "JK Seguros",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "JK"
+},{
+  "_id": {
+    "$oid": "63456d64581c04f249c4042f"
   },
-  {
-    "ramal": 7016,
-    "name": "Nivaldo Franzon",
-    "occupation": "Gerente de Consórcio",
-    "department": "Administrativo",
-    "company": "JK Seguros",
-    "statusUser": true
-  }
-]
+  "ramal": 7016,
+  "name": "Nivaldo Franzon",
+  "occupation": "Gerente de Consórcio",
+  "department": "Administrativo",
+  "company": "JK Seguros",
+  "area": "VENDAS",
+  "statusUser": true,
+  "group": "JK"
+}]

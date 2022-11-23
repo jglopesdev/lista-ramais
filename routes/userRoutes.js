@@ -9,11 +9,112 @@ const UserPanel = require("../models/UserPanel");
 const { now } = require("mongoose");
 const { find } = require("../models/UserRamal");
 
+
+//Rotas API
 router.get("/listaRamais", async (req, res) => {
   await UserRamal.find({ raw: true }).then((body) => {
     res.json(body);
   });
 });
+
+router.get("/listaRamais/comeri", async (req, res) => {
+  await UserRamal.find({ group: "COMERI" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/matriz", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Matriz" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/matriz/vendas", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Matriz", area: "VENDAS" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/matriz/pecas", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Matriz", area: "PECAS" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/matriz/oficina", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Matriz", area: "OFICINA" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/matriz/adm", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Matriz", area: "ADM" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/praiagrande", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Praia Grande" }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/comeri/peruibe", async (req, res) => {
+  await UserRamal.find({ group: "COMERI", company: "Comeri Peruibe" }).then((body) => {
+    res.json(body);
+  });
+});
+
+
+router.get("/listaRamais/iremoc", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/iremoc/santosshowroom", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/iremoc/santosposvendas", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/iremoc/guaruja", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/iremoc/guaruja/praiagrande", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/jkseguros", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/jkseguros/baixada", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+router.get("/listaRamais/jkseguros/interior", async (req, res) => {
+  await UserRamal.find({ raw: true }).then((body) => {
+    res.json(body);
+  });
+});
+
+
 
 //ROTAS PARA EDICAO DOS RAMAIS
 router.get("/maintenance", (req, res) => {

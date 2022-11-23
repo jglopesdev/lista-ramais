@@ -35,7 +35,7 @@ app.use(express.json());
 app.use("/", userRoutes);
 
 app.get("/", (req, res) => {
-  res.render("index");
+  res.render("main");
 });
 
 //Database
